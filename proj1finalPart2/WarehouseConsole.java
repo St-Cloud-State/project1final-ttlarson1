@@ -469,7 +469,7 @@ private void fulfillWaitlist(Product product) {
         boolean valid = false;
         Integer bal = 0;
         while (!valid) {
-            System.out.print("Enter the qunatity: ");
+            System.out.print("Enter the quantity: ");
             String input = scanner.nextLine();
 
             try {
