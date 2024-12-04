@@ -674,6 +674,7 @@ private void fulfillWaitlist(Product product) {
 
     public static void main(String[] args) {
         WarehouseConsole app = new WarehouseConsole();
-        app.showMainMenu();
+        //app.showMainMenu();
+        app.testWarehouseConsole();
     }
 }
